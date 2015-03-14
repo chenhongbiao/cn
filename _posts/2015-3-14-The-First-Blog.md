@@ -1,7 +1,7 @@
 ---
 layout: post 
-category: 科技
 title: 第一篇博文『留白』
+category: 科技
 tags: [Internet,Page,Blog]
 matheq: no
 comments: yes
@@ -42,7 +42,7 @@ recentvisitors: yes
 
 - 图片的存放并非在本地，打包整个博客的图片不方便。
 
-- 而且原博主使用图片竟然用『html标签』而不是『Markdown语法』(°ー°〃)。
+- 而且原博主使用图片竟然用『html标签』而不是『Markdown语法』(°ー°〃)
 
   - 不过我也没学过html，只是看多了。「所以我刚才在瞎掰。」
   
@@ -67,6 +67,7 @@ recentvisitors: yes
 >可以不写某些项目吗？若是不写，默认是什么？
 
 >>类别的首字母不能大写字母吗？
+
 >>【不能，而且整个分类名字中都不能有大写字母】
 
 2. 博文头配置说明
@@ -108,7 +109,7 @@ recentvisitors: yes
 
 （Iamu）哲思Think：【哲思 人类大脑计划 心灵意识 神经 人工智能】 
 
-（Open）知其Know： 【收罗非IT学习】
+（Open）知其Know： 【收罗非IT知识 好奇心】
 
      【纯粹的描述，学习记录，没有夹带强烈的个人想法观点。】
      
