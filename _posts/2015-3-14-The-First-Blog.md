@@ -1,6 +1,6 @@
 ---
 layout: post 
-category: ITech科技
+category: Tech科技
 title: 第一篇博文『留白』
 tags: [Internet, Page, Blog]
 matheq: no
@@ -12,11 +12,13 @@ recentvisitors: yes
 
 ###这个博客的由来
 
-其实我在此之前已经有过2个博客了（当然都是建在Github Pages上！）
+其实我在此之前已经有过2个博客了（当然是建在Git上！）
 
 - 那为什么还要迁移呢？
 
-- 因为简洁，有中英双页面，而且功能齐全（原谅我懒得迁移「标签」和「索引」功能）
+- 因为简洁，有中英双页面，而且功能齐全
+
+（原谅我懒得迁移「标签」和「索引」功能）
 
 ####迁移博客的流程
 
@@ -58,7 +60,13 @@ recentvisitors: yes
 
 都是因为不会网页代码啊TVT
 
-1. 文章开头的标签相对位置可以移动吗？一共有几种功能？可以不写某些项目吗？若是不写，默认是什么？
+1. 文章开头的标签相对位置可以移动吗？【可以】
+
+>>一共有几种功能？【现在看到10种】
+
+>>可以不写某些项目吗？若是不写，默认是什么？
+
+>>类别的首字母不能大写字母吗？
 
 2. 博文头配置说明
   
@@ -84,13 +92,13 @@ recentvisitors: yes
 
 5. 图床测试：
 
-[公开weibo-gif]{http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif)
+![公开weibo-gif]{http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif)
 
-[公开weibo-jpg](http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg)
+![公开weibo-jpg](http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg)
 
 就是不知道是不是永久链接= -=
 
-[个人可见-weibo](http://ww3.sinaimg.cn/bmiddle/8935112btw1eq5jrzweeij20c808s75s.jpg)
+![个人可见-weibo](http://ww3.sinaimg.cn/bmiddle/8935112btw1eq5jrzweeij20c808s75s.jpg)
 
 ####文章的分类依据
 
@@ -108,15 +116,15 @@ recentvisitors: yes
       
 （Read）Feel感受：【收罗有感】 所有启发性的东西 
 
-                看了一部电影//动漫//连续剧//有感（标签:漫影）
+>看了一部电影//动漫//连续剧//有感（标签:漫影）
                 
-                看了一幅画//漫画有感（标签:绘画）
+>看了一幅画//漫画有感（标签:绘画）
                 
-                看了一本书//小说有感（标签:书籍）
+>看了一本书//小说有感（标签:书籍）
+
+>听了音乐//MV有感（标签:音乐）
                 
-                听了音乐//MV有感（标签:音乐）
-                
-                玩了游戏//谜题有感（标签：游戏）
+>玩了游戏//谜题有感（标签：游戏）
       
 ###感谢
 
