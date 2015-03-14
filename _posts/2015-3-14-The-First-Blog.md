@@ -1,6 +1,6 @@
 ---
 layout: post 
-category: Tech科技
+category: 科技ITech
 title: 第一篇博文『留白』
 tags: [Internet, Page, Blog]
 matheq: no
@@ -66,7 +66,7 @@ recentvisitors: yes
 
 >>可以不写某些项目吗？若是不写，默认是什么？
 
->>类别的首字母不能大写字母吗？
+>>类别的首字母不能大写字母吗？【不能】
 
 2. 博文头配置说明
   
@@ -92,7 +92,7 @@ recentvisitors: yes
 
 5. 图床测试：
 
-![公开weibo-gif]{http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif)
+![公开weibo-gif](http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif)
 
 ![公开weibo-jpg](http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg)
 
@@ -104,11 +104,11 @@ recentvisitors: yes
 
 沿袭上一个博客的分类：『至于标签，沿袭*云笔记和收藏夹的标签*』
 
-（Tech）ITech科技：【收罗学习IT】 计算机网络上的技术 有关电脑电子
+（Tech）科技ITech：【收罗学习IT】 计算机网络上的技术 有关电脑电子
 
-（Iamu）Think哲思：【哲思 人类大脑计划 心灵意识 神经 人工智能】 
+（Iamu）哲思Think：【哲思 人类大脑计划 心灵意识 神经 人工智能】 
 
-（Open）Know知其： 【收罗非IT学习】
+（Open）知其Know： 【收罗非IT学习】
 
      【纯粹的描述，学习记录，没有夹带强烈的个人想法观点。】
      
