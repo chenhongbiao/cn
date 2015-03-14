@@ -1,8 +1,8 @@
 ---
 layout: post 
-category: 科技ITech
+category: 科技
 title: 第一篇博文『留白』
-tags: [Internet, Page, Blog]
+tags: [Internet,Page, Blog]
 matheq: no
 comments: yes
 toc: yes
@@ -34,7 +34,7 @@ recentvisitors: yes
 
 >可以看出是Jekyll主页的风格。『嗯，我很喜欢。』[中文Jekyll官网](http://jekyllcn.com/)
 
-放假了，我越看第一个博客越不舒服，于是重新寻找。然后就看到了这个yanshou.name。
+放假了，我越看第一个博客越不舒服，于是重新寻找。然后就看到了[这个](http://yanshuo.name/)
 
 优点上面已经说了，下面说说缺点：
 
@@ -66,7 +66,7 @@ recentvisitors: yes
 
 >>可以不写某些项目吗？若是不写，默认是什么？
 
->>类别的首字母不能大写字母吗？【不能】
+>>类别的首字母不能大写字母吗？【不能，而且整个分类中不能有大写字母】
 
 2. 博文头配置说明
   
@@ -93,7 +93,6 @@ recentvisitors: yes
 5. 图床测试：
 
 ![公开weibo-gif](http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif)
-
 ![公开weibo-jpg](http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg)
 
 就是不知道是不是永久链接= -=
@@ -130,4 +129,4 @@ recentvisitors: yes
 
 这个博客要感谢就只有原博主了。
 
-看**关于**去戳戳他吧^^
+去戳戳他吧^^
