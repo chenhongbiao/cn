@@ -48,6 +48,8 @@ recentvisitors: yes
   
   - 那么说我也要找一个额外放图的地方。微博？Photobucket？
 
+    - >使用『html』是为了使用fancybox的加强图片浏览功能。「可以点图片了」
+
 - 本地文章存放没分类，博文都放一起了。（真是方便读者，苦了作者）
 
 - Clone小流程
@@ -94,12 +96,13 @@ recentvisitors: yes
 
 5. 图床测试：
 
-![公开weibo-gif](http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif)
-![公开weibo-jpg](http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg)
+<a class="fancybox" rel="gallery1" href="http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif" title="公开weibo-gif"><img src="http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif" alt="公开weibo-gif" /></a>
+
+<a class="fancybox" rel="gallery1" href="http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg" title="公开weibo-gif"><img src="http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg" alt="公开weibo-jpg" /></a>
 
 就是不知道是不是永久链接= -=
 
-![个人可见-weibo](http://ww3.sinaimg.cn/bmiddle/8935112btw1eq5jrzweeij20c808s75s.jpg)
+<a class="fancybox" rel="gallery1" href="http://ww3.sinaimg.cn/bmiddle/8935112btw1eq5jrzweeij20c808s75s.jpg" title="个人可见-weibo"><img src="http://ww3.sinaimg.cn/bmiddle/8935112btw1eq5jrzweeij20c808s75s.jpg" alt="个人可见-weibo" /></a>
 
 ####文章的分类依据
 
