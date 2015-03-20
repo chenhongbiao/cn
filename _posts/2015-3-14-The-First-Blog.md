@@ -46,7 +46,7 @@ recentvisitors: yes
 
   - 不过我也没学过html，只是看多了。「所以我刚才在瞎掰。」
 
-  - 使用『html』是为了使用fancybox来加强图片浏览功能。「点图片试试？」-By原博主
+  - 『html』是为了使用fancybox来加强图片浏览功能。点图片试试？-By原博主
   
   - 那么说我也要找一个额外放图的地方。微博？Photobucket？云主机？
 
@@ -90,7 +90,7 @@ recentvisitors: yes
     
     分享 share: yes
     
-3. 其实有两个share，我不知道另外一个是怎么回事，还有一大批文件不知道对应功能什么的。
+3. 其实有两个share，还有一大批文件不知道实际的对应功能是什么。
 
 4. 其实我也不想知道太多，因为...>知道了=>手痒自己调整=>无休止的不满意自虐
 
@@ -99,7 +99,7 @@ recentvisitors: yes
 <a class="fancybox" rel="gallery1" href="http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif" title="公开weibo-gif"><img src="http://ww2.sinaimg.cn/square/8935112btw1eq5jp3ruvgg2046046746.gif" alt="公开weibo-gif" /></a>
 <a class="fancybox" rel="gallery1" href="http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg" title="公开weibo-gif"><img src="http://ww4.sinaimg.cn/square/8935112btw1eq5jp3zfvuj2046046dfr.jpg" alt="公开weibo-jpg" /></a>
 
-就绝对是你啦，Weibo！有了「Chrome插件『新浪微博图床』=<开源的哦」简直方便到家。
+就决定是Weibo了!「Chrome插件『新浪微博图床』`开源`」简直方便到家。
 
 <a class="fancybox" rel="gallery1" href="http://ww3.sinaimg.cn/bmiddle/8935112btw1eq5jrzweeij20c808s75s.jpg" title="个人可见-weibo"><img src="http://ww3.sinaimg.cn/bmiddle/8935112btw1eq5jrzweeij20c808s75s.jpg" alt="个人可见-weibo" /></a>
 
