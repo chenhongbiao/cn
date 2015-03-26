@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Win8-64bit-debug.exe
+title: 64位系统无法使用Debug
 category: 科技
 tags: [Assembly,资料]
 matheq: no
@@ -23,8 +23,9 @@ Win+R后输入cmd打开命令行，键入debug，然后...
 
 ###为什么
 
-debug是dos系统提供的实模式（8086方式）程序调试工具，它本身是一个16位的应用程序。
-[Wiki-Debug(command)](http://en.wikipedia.org/wiki/Debug_(command))
+debug是dos系统提供的实模式（8086方式）程序调试工具。
+
+它本身是一个16位的应用程序。[Wiki-Debug(command)](http://en.wikipedia.org/wiki/Debug_(command))
 
 在32位windows系统中，你可以进入虚拟的8086模式dos，进而运行debug。
 
