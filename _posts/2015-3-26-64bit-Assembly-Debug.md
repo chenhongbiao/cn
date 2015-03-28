@@ -41,21 +41,53 @@ debug是dos系统提供的实模式（8086方式）程序调试工具。
 
 >去微软官方处搞定：[Windows XP Mode](http://windows.microsoft.com/zh-CN/windows7/install-and-use-windows-xp-mode-in-windows-7)
 
-- 用dosbox模拟dos
+- 『推荐』用dosbox模拟dos环境运行debug.exe
 
->[具体请看这里-简单使用dosbox](http://blog.csdn.net/jiusifeng/article/details/8478831)
+先下载一个[debug.exe](http://pan.baidu.com/s/1c0s8A6c)（百度网盘：phdr）
 
->[「百度文库」-详细使用dosbox](http://wenku.baidu.com/view/cdda041552d380eb62946db2.html)
+再下载[dosbox](http://www.dosbox.com/download.php?main=1)（官网下载）[dosbox-meow](http://pan.baidu.com/s/1sj2r07r)（百度网盘：hmku）
 
->[dosbox官方介绍](http://www.dosbox.com/wiki/Main_Page)
+运行dosbox（2个窗口共同作用，不要关闭任何一个），挂载debug.exe路径到某盘符。
 
->mount：文件挂载命令。将某个文件夹路径挂载到某个地方去，只要访问了那个地方，那么同时也在访问那个文件夹。
+>我现在的debug.exe在D盘的Profess-Code文件夹中，而我想在C盘路径下运行debug.exe
 
-- 虚拟机
+那么键入命令`mount c d:/Profess-Code`
 
-虚拟机上装32位的系统即可。更麻烦一点，双系统也可以。
+>mount:文件挂载命令。将某个文件夹路径挂载到某个地方去，只要访问了那个地方，那么同时也在访问那个文件夹。
+
+<a class="fancybox" rel="gallery1" href="http://ww2.sinaimg.cn/large/8935112btw1eqlv80zshpj20hy0bx0vo.jpg" title="英文输入:区分大小写"><img src="http://ww2.sinaimg.cn/large/8935112btw1eqlv80zshpj20hy0bx0vo.jpg" alt="英文输入:区分大小写" /></a>
+
+之后来到该盘符下c:，键入debug，搞定！
+
+<a class="fancybox" rel="gallery1" href="http://ww4.sinaimg.cn/large/8935112btw1eqlv8n65r6j20hy0bx0vp.jpg" title="Have fun!debug"><img src="http://ww4.sinaimg.cn/large/8935112btw1eqlv8n65r6j20hy0bx0vp.jpg" alt="Have fun!debug" /></a>
+
+Tips: 整合以上命令，使得一运行dosbox就可以debug。
+
+到dosbox的安装目录下找到文件`DOSBox 0.74 Options.bat`，在尾部的[autoexec]部分加入启动运行代码。
+
+>[autoexec]
+
+># Lines in this section will be run at startup.
+
+># You can put your MOUNT lines here.
+
+>mount c d:/Profess-Code
+
+>c:
+
+>debug
+
+- 虚拟机（比如：VMware Workstation）
+
+在虚拟机上装32位的系统（比如windows xp）即可。更麻烦一点，双系统也行。
 
 ###参考
+
+>[ jiusifeng-简单使用dosbox](http://blog.csdn.net/jiusifeng/article/details/8478831)
+
+>[「百度文库-详细使用dosbox](http://wenku.baidu.com/view/cdda041552d380eb62946db2.html)
+
+>[dosbox官方介绍](http://www.dosbox.com/wiki/Main_Page)
 
 [微软社区-windows64位系统怎么不能进入debug？](http://answers.microsoft.com/zh-hans/windows/forum/windows_8-winapps/windows/e1c910ad-252f-4a54-8bec-19285f41e190)
 
