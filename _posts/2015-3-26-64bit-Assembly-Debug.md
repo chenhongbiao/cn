@@ -81,7 +81,7 @@ debug
 
 [「jiusifeng」-简单使用dosbox](http://blog.csdn.net/jiusifeng/article/details/8478831)
 
-[「百度文库」 -详细使用dosbox](http://wenku.baidu.com/view/cdda041552d380eb62946db2.html)
+[「百度文库」-详细使用dosbox](http://wenku.baidu.com/view/cdda041552d380eb62946db2.html)
 
 [dosbox官方介绍](http://www.dosbox.com/wiki/Main_Page)
 
