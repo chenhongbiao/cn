@@ -56,7 +56,6 @@ recentvisitors: yes
 
 [关于修改〈中华人民共和国著作权法实施条例〉](http://www.gov.cn/gongbao/content/2013/content_2339485.htm)
 
-
 ###盗版逻辑
 
 <a class="fancybox" rel="gallery1" href="http://ww3.sinaimg.cn/large/8935112btw1eqtkl5gmukj20c807x752.jpg" title="我从未见过如此厚颜无耻之人"><img src="http://ww3.sinaimg.cn/large/8935112btw1eqtkl5gmukj20c807x752.jpg" alt="我从未见过如此厚颜无耻之人" /></a>
@@ -145,7 +144,7 @@ Ps：`支持正版`也是个常见的说法。这个说法很恶心，会让人�
     
 还有：『汉化是侵权行为，必须牢记这一点。』
 
-####三大旗帜
+####三大旗帜「一句话噎死你」
 
 - 劫富济贫
 
@@ -249,7 +248,7 @@ Ps：`支持正版`也是个常见的说法。这个说法很恶心，会让人�
 
 `可悲可叹。`
 
-####案例『乌烟瘴气』
+###案例『乌烟瘴气』
 
 - 海盗湾 |图片|音乐|电影|软件|操作系统「winXP」|
 
