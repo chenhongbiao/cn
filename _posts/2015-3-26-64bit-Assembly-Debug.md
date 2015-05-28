@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: 64位系统无法使用Debug
+title: 『汇编』解决64位系统使用Debug
 category: 科技
 tags: [Assembly,资料]
 matheq: no
@@ -91,4 +91,4 @@ debug
 
 PS：windows下的程序调试工具：除去visual studio，还有轻量级的[windbg](http://www.pediy.com/kssd/pediy10/94457.html)
 
-PPS：在找学习《汇编语言》的电子资源？[等会戳我](http://pan.baidu.com/s/1eQerIim)（百度网盘：ifky）
+PPS：需要更多的《汇编语言》电子资源？[戳我](http://pan.baidu.com/s/1eQerIim)（百度网盘：ifky）

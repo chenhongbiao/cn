@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: All Rights Reserved『版权』
+title: 『版权』All Rights Reserved
 category: 知道
 tags: [Copyright,资料]
 matheq: no

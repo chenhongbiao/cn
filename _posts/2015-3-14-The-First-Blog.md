@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: 第一篇博文『留白』
+title: 『留白』第一篇博文
 category: 科技
 tags: [Internet,Page,Blog]
 matheq: no
@@ -92,7 +92,7 @@ recentvisitors: yes
     
 3. 其实有两个share，还有一大批文件不知道实际的对应功能是什么。
 
-4. 其实我也不想知道太多，因为...>知道了=>手痒自己调整=>无休止的不满意自虐
+4. 其实我也不想知道太多，因为->知道了=>手痒自己调整=>无休止的不满意自虐
 
 5. 图床测试：
 
