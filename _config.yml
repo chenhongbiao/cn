@@ -1,6 +1,4 @@
-markdown: redcarpet
-redcarpet:
-  extensions:   ["with_toc_data"]
+markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://chenhongbiao.github.io/cn
 homepage: http://chenhongbiao.github.io/
